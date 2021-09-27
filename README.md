@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Hasan 👋
+
+--
+
+<p align="center">
+  <a href="https://t.me/nbbdev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
+  <a href="www.linkedin.com/in/nbbdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/nbbdev"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
+  <a href="mailto:hasan.arab.borzo@gmail.com?subject=Mail From GitHub Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+</p>
 
 <!--
 **nbbdev/nbbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
