@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hasan 👋</h1>
 
---
+<h4 align="center">I'm on social media</h4>
 
 <p align="center">
   <a href="https://t.me/nbbdev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
